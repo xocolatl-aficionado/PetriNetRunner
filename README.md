@@ -28,7 +28,7 @@ Open the command prompt/terminal in the respective directory where .lola files a
 
 ### lola 5P-deadlock.lola -f 5P-deadlock.formula -s
 
-## 4 out of 5 philosophers can eat
+## 2 opposite philosophers can eat at a time
 
 One way to solve the dining philosopher problem is to ensure that each philosopher picks up both forks on either side simultaneously when they are done thinking and ready to eat instead of locking up resources when they arent quite ready to use them. 
 
