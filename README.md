@@ -7,7 +7,7 @@ Runs PN analyses on PN nets using LoLA
 The PN model:<br>
 ![Resource Allocation Graph](Diagrams/deadlock-basic-PN.png)
 
-How to run the LoLA file:
+How to run the LoLA file: ⚠️⚠️⚠️
 
 
 ## The 5 dining philosophers cant eat
@@ -17,7 +17,7 @@ If each philosopher picks up their left fork, does some thinking, and then tries
 The PN model: <br>
 ![Deadlocked-5P-PN](Diagrams/deadlocked-5P-PN.png)
 
-How to run the LoLA file:
+How to run the LoLA file: ⚠️⚠️⚠️
 
 ## 4 out of 5 philosophers can eat
 
@@ -26,6 +26,6 @@ One way to solve the dining philosopher problem is to ensure that each philosoph
 The PN model: <br>
 ![Deadlocked-5P-PN](Diagrams/5P-PN.png)
 
-How to run the LoLA file:
+How to run the LoLA file: ⚠️⚠️⚠️
 
 
