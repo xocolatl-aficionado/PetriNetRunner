@@ -1,5 +1,5 @@
 # PetriNetRunner
-Runs PN analyses on PN nets using LoLA
+Runs PN analyses on PN nets using LoLA. LoLA was made available in this repo as a zip for easy script execution. Please refer to https://www.informatik.uni-hamburg.de/TGI/PetriNets/tools/db/lola.html for official download. 
 
 ## A trivial deadlocking example
 ![Resource Allocation Graph](Diagrams/simple-RAG.png)
